@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Admin",
+      "email": "admin@demoapp.com",
+      "active": "1",
+      "password": "demoapp123"
+    },
+    {
+      "id": "3",
+      "name": "Maxmiller",
+      "email": "maxmiller@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "2",
+      "name": "Antony",
+      "email": "antony@gmail.com",
+      "active": "1"
+    },
+    {
+      "id": "12",
+      "name": "Manu",
+      "email": "manu123@gmail.com",
+      "active": "0"
+    },
+    {
+      "id": "5",
+      "name": "Bibin",
+      "email": "bibin@gmail.com",
+      "active": "0"
+    }
+  ]
+}
